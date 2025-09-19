@@ -64,12 +64,6 @@
 
 ###
 
-<h5 align="center">Visitors</h5>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ArthurT09/count.svg?"  />
-</div>
+[![An image of @arthurt09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arthurt09)](https://holopin.io/@arthurt09)
 
 ###
